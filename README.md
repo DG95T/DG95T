@@ -1,16 +1,17 @@
-### Hi there 👋
+# Daniela Gonzalez
 
-<!--
-**DG95T/DG95T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Daniela Gonzalez, estudiante del área de Tecnologías en la UTM. Mi enfoque se centra en el desarrollo front-end y la ilustración. 🚀🎨
 
-Here are some ideas to get you started:
+## Sobre mí
+- 📚 Estudiante en Tecnologías en la UTM.
+- 💻 Especializada en desarrollo front-end.
+- 🎨 Apasionada por la ilustración.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- HTML, CSS, JavaScript
+- Diseño de interfaz de usuario (UI)
+- Ilustración digital
+
+## Proyectos Destacados
+- 🌐 Proyecto XYZ - Desarrollo front-end para una plataforma innovadora.
+- 🎨 Ilustraciones para ABC Company - Colaboración en la creación de gráficos creativos.
